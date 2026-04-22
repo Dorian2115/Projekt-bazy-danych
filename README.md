@@ -95,10 +95,6 @@ CREATE TABLE Zamowienie (
    ```sh
    mysql -u root -p < schema.sql
    ```
-4. **Uruchom aplikację:**
-   ```sh
-   python app.py
-   ```
 
 ## Autorzy
 - **Piotr Chrabąszcz**
